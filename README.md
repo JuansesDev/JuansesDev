@@ -23,7 +23,6 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="width:40px; height:40px;"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="width:40px; height:40px;"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="width:40px; height:40px;"/>
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="AngularJS" style="width:40px; height:40px;"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" style="width:40px; height:40px;"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="width:40px; height:40px;"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="width:40px; height:40px;"/>
