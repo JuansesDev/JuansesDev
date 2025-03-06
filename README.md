@@ -63,16 +63,16 @@ Currently expanding my expertise in:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juanses03&theme=radical" width="100%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuansesDev&theme=radical" width="100%" alt="Profile Details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juanses03&show_icons=true&count_private=true&theme=radical" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juanses03&theme=radical" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JuansesDev&show_icons=true&count_private=true&theme=radical" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuansesDev&theme=radical" width="48%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanses03&layout=compact&theme=radical&count_private=true" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuansesDev&layout=compact&theme=radical&count_private=true" width="40%" alt="Top Languages"/>
 </p>
 
 ## ⚡ Fun Fact
