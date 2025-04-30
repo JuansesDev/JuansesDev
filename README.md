@@ -150,4 +150,4 @@ My creative process follows the same pattern whether I'm developing code or expl
 
 ---
 
-📫 The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/sebastian-vargas-122aa4285/) or via email at juansesdev@gmail.com
+📫 The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/sebastian-vargas-122aa4285/) or via email at juansesdevcontact@gmail.com
