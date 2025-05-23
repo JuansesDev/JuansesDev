@@ -66,20 +66,20 @@ I'm a passionate developer focused on creating innovative web and mobile applica
       <h3 align="center">Pixel Dreams Gallery</h3>
       <div align="center">
         <a href="https://pixeldreamsgallery.me/" target="_blank">
-          <img src="https://github.com/JuansesDev/pixeldreams-gallery-front/blob/main/public/PDG.jpeg" width="100%" alt="Pixel Dreams Gallery"/>
+          <img src="https://github.com/JuansesDev/JuansesDev/Images/PDG.jpeg" width="100%" alt="Pixel Dreams Gallery"/>
         </a>
         <p><strong>Your ultimate free resource for royalty-free images powered by AI.</strong></p>
         <p><em>Check it out: <a href="https://pixeldreamsgallery.me/">pixeldreamsgallery.me</a></em></p>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Waitlist Mailer</h3>
+      <h3 align="center">Aura Os</h3>
       <div align="center">
-        <a href="https://github.com/JuansesDev/waitlist-mailer" target="_blank">
-          <img src="https://github.com/JuansesDev/juanses-dev-web/blob/main/assets/WaitlistMailer-D_0b_IkM.jpg" width="100%" alt="Waitlist Mailer"/>
+        <a href="https://github.com/JuansesDev/AuraOs" target="_blank">
+          <img src="https://github.com/JuansesDev/JuansesDev/Images/auraOs-512.png" width="100%" alt="AuraOs"/>
         </a>
-        <p><strong>Email management system for product waitlists</strong></p>
-        <p><em>Check it out: <a href="https://github.com/JuansesDev/waitlist-mailer">GitHub Repository</a></em></p>
+        <p><strong>Web Os Simulator</strong></p>
+        <p><em>Check it out: <a href="https://juansesdev.github.io/AuraOs/">Demo</a></em></p>
       </div>
     </td>
   </tr>
