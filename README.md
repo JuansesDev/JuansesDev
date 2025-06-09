@@ -14,8 +14,8 @@
   <a href="https://x.com/JuansesDev">
     <img src="https://img.shields.io/badge/Twitter-@JuansesDev-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:juansesdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-juansesdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:juansesdevcontact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-juansesdevcontact@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
