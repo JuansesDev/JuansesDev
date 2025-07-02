@@ -1,153 +1,113 @@
-# Hello World! I'm Juanses 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=38BDAE&height=220&section=header&text=Hello!%20I'm%20Juanses&fontSize=70&fontColor=fff&animation=fadeIn" alt="Welcome banner"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;SAP+ABAP+Specialist;Game+Dev+Enthusiast;Always+Learning" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://juanses-dev.com/">
-    <img src="https://img.shields.io/badge/Portfolio-juanses--dev.com-38BDAE?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sebastian-vargas-122aa4285/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sebastián_Vargas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/JuansesDev">
-    <img src="https://img.shields.io/badge/Twitter-@JuansesDev-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:juansesdevcontact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-juansesdevcontact@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://juanses-dev.com/">
+    <img src="https://img.shields.io/badge/Portfolio-38BDAE?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sebastian-vargas-122aa4285/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/JuansesDev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:juansesdevcontact@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-## 🚀 About Me
-
-I'm a passionate developer focused on creating innovative web and mobile applications that solve real problems and enhance user experience. I combine my enterprise development experience with SAP ABAP and my passion for modern technologies to build robust and scalable solutions.
-
-> "Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines." — Robert C. Martin
-
-## 💻 Technologies & Tools
+<img src="https://capsule-render.vercel.app/api?type=slice&color=38BDAE&height=10" />
 
 <div align="center">
-
-### Languages & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP ABAP"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"/>
-</p>
-
-### Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
-
-### Currently Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
+  <h3>🚀 About Me</h3>
+  <p>I'm a passionate developer focused on creating innovative web and mobile applications that solve real problems and enhance user experience. I combine my enterprise development experience with SAP ABAP and my passion for modern technologies to build robust and scalable solutions.</p>
+  <blockquote>
+    <i>"Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines."</i> — Robert C. Martin
+  </blockquote>
 </div>
 
-## 🔭 Featured Projects
+<div align="center">
+  <h3>💻 Tech Stack</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=sap,js,react,nodejs,html,css,godot,git,github,firebase,linux,bootstrap" alt="Core Technologies"/>
+    </a>
+  </p>
+  <h4>🌱 Currently Learning</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=38BDAE&height=10" />
+
+<div align="center">
+  <h3>🔭 Featured Projects</h3>
+</div>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Pixel Dreams Gallery</h3>
       <div align="center">
+        <h4>Pixel Dreams Gallery</h4>
         <a href="https://pixeldreamsgallery.me/" target="_blank">
-          <img src="https://github.com/JuansesDev/JuansesDev/blob/main/Images/PDG.jpeg" width="100%" alt="Pixel Dreams Gallery"/>
+          <img src="https://github.com/JuansesDev/JuansesDev/blob/main/Images/PDG.jpeg?raw=true" width="95%" alt="Pixel Dreams Gallery"/>
         </a>
-        <p><strong>Your ultimate free resource for royalty-free images powered by AI.</strong></p>
-        <p><em>Check it out: <a href="https://pixeldreamsgallery.me/">pixeldreamsgallery.me</a></em></p>
+        <br>
+        <i>Your ultimate free resource for royalty-free images powered by AI.</i>
+        <p>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
+        </p>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Aura Os</h3>
       <div align="center">
-        <a href="https://github.com/JuansesDev/AuraOs" target="_blank">
-          <img src="https://github.com/JuansesDev/JuansesDev/blob/main/Images/auraOs-512.png" width="100%" alt="AuraOs"/>
+        <h4>Aura OS</h4>
+        <a href="https://juansesdev.github.io/AuraOs/" target="_blank">
+          <img src="https://github.com/JuansesDev/JuansesDev/blob/main/Images/auraOs-512.png?raw=true" width="95%" alt="AuraOs"/>
         </a>
-        <p><strong>Web Os Simulator</strong></p>
-        <p><em>Check it out: <a href="https://juansesdev.github.io/AuraOs/">Demo</a></em></p>
+        <br>
+        <i>A functional and interactive Web OS Simulator.</i>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+        </p>
       </div>
     </td>
   </tr>
 </table>
 
-## 🌱 Professional Development
-
-My growth path focuses on:
-
-- 🌟 **System Architecture**: Designing scalable and maintainable solutions
-- 📱 **Advanced Mobile Development**: Creating seamless experiences on iOS and Android
-- ☁️ **Cloud Computing**: Implementing serverless infrastructures and microservices
-- 🧩 **Design Patterns**: Applying best practices in software development
-- 🔄 **DevOps**: Integrating CI/CD to optimize workflows
-
-## 💡 Areas of Interest
+<img src="https://capsule-render.vercel.app/api?type=slice&color=38BDAE&height=10" />
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>💼 Enterprise Development</b></td>
-      <td align="center"><b>📱 Mobile Applications</b></td>
-      <td align="center"><b>🎮 Game Dev</b></td>
-    </tr>
-    <tr>
-      <td>Creating robust solutions for corporate environments, optimizing processes and improving operational efficiency.</td>
-      <td>Designing intuitive mobile experiences that connect users with practical solutions for everyday problems.</td>
-      <td>Exploring interactive mechanics and immersive narratives through game programming.</td>
-    </tr>
-    <tr>
-      <td align="center"><b>🎨 UI/UX Design</b></td>
-      <td align="center"><b>☁️ Cloud Architecture</b></td>
-      <td align="center"><b>🤖 Artificial Intelligence</b></td>
-    </tr>
-    <tr>
-      <td>Creating elegant and functional interfaces that prioritize user experience and accessibility.</td>
-      <td>Implementing scalable and secure cloud infrastructures using industry best practices.</td>
-      <td>Integrating AI capabilities to create more intelligent and adaptive solutions for users.</td>
-    </tr>
-  </table>
+  <h3>📊 GitHub Activity</h3>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuansesDev&theme=tokyonight" alt="Profile Details"/>
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=JuansesDev&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" width="48%" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuansesDev&theme=tokyonight&border_radius=10" width="48%" alt="GitHub Streak"/>
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuansesDev&layout=compact&theme=tokyonight&border_radius=10&count_private=true" width="40%" alt="Top Languages"/>
+  </p>
 </div>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuansesDev&theme=tokyonight" width="100%" alt="Profile Details"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuansesDev&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuansesDev&theme=tokyonight&border_radius=10" width="48%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuansesDev&layout=compact&theme=tokyonight&border_radius=10&count_private=true" width="40%" alt="Top Languages"/>
-</p>
-
-## ⚡ Fun Fact
-My creative process follows the same pattern whether I'm developing code or exploring virtual worlds: first observing the big picture, then experimenting with different approaches, and finally finding solutions others might have overlooked. Curiosity is my best tool!
-
 <div align="center">
+  <h3>⚡ Fun Fact</h3>
+  <p><i>My creative process follows the same pattern whether I'm developing code or exploring virtual worlds: first observing the big picture, then experimenting with different approaches, and finally finding solutions others might have overlooked. Curiosity is my best tool!</i></p>
+</div>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=JuansesDev&style=for-the-badge&color=38BDAE" alt="Profile views" />
-</div>
-
-<p align="center">
-  <i>Interested in collaborating? Let's build something extraordinary together!</i>
 </p>
-
----
-
-📫 The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/sebastian-vargas-122aa4285/) or via email at juansesdevcontact@gmail.com
