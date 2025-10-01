@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D38BDAE%26height%3D180%26text%3DJuanses%2520Dev%26fontAlign%3D80%26fontAlignY%3D40%26fontSize%3D50%26fontColor%3Dfff" alt="Header Banner"/>
+<img src="https://github.com/JuansesDev/JuansesDev/blob/main/Images/Banner.png?raw=true" alt="Header Banner"/>
 </div>
 
 <div align="center">
