@@ -86,9 +86,9 @@
 </td>
 <td width="50%" valign="top">
 <div align="center">
-<h4>Aura OS</h4>
-<a href="https://juansesdev.github.io/AuraOs/" target="_blank">
-<img src="https://github.com/JuansesDev/JuansesDev/blob/main/Images/auraOs-512.png?raw=true" width="95%" alt="AuraOs"/>
+<h4>Aerion OS</h4>
+<a href="https://juansesdev.github.io/AerionOs/" target="_blank">
+<img src="https://github.com/JuansesDev/JuansesDev/blob/main/Images/auraOs-512.png?raw=true" width="95%" alt="AerionOs"/>
 </a>
 
 
