@@ -41,6 +41,8 @@
 <table>
   <tr>
     <td width="50%">
+      <img src="https://placehold.co/600x3/A855F7/A855F7.png" width="100%" alt="" />
+      <br />
       <a href="https://juansesdev.github.io/AerionOs/" target="_blank"><h3>AerionOS</h3></a>
       <p>Operating system simulation engine built with pure Vanilla JavaScript. Features a window management system, file system simulation, and optimized DOM manipulation.</p>
       <p>
@@ -50,6 +52,8 @@
       </p>
     </td>
     <td width="50%">
+      <img src="https://placehold.co/600x3/3B82F6/3B82F6.png" width="100%" alt="" />
+      <br />
       <a href="https://github.com/JuansesDev" target="_blank"><h3>MTC - Modular Template CLI</h3></a>
       <p>A powerful, architecture-aware CLI tool for scaffolding .NET projects. Supports Clean Architecture, MVC Monolith, and Vertical Slice patterns.</p>
       <p>
@@ -61,6 +65,8 @@
   </tr>
   <tr>
     <td width="50%">
+      <img src="https://placehold.co/600x3/F97316/F97316.png" width="100%" alt="" />
+      <br />
       <a href="https://github.com/JuansesDev" target="_blank"><h3>WaitlistMailer</h3></a>
       <p>Backend library published on NPM for efficient waitlist management. Handles email queuing, template rendering, and SMTP integrations seamlessly.</p>
       <p>
@@ -70,6 +76,8 @@
       </p>
     </td>
     <td width="50%">
+      <img src="https://placehold.co/600x3/EC4899/EC4899.png" width="100%" alt="" />
+      <br />
       <a href="https://pixeldreamsgallery.me/" target="_blank"><h3>PixelDreams Gallery</h3></a>
       <p>High-performance gallery platform built with Next.js. Leverages next/image for optimization and a responsive masonry layout for visual impact.</p>
       <p>
