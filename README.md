@@ -3,8 +3,8 @@
   <h1>Sebastian Vargas</h1>
   <h3>Software Architect & Full Stack Developer</h3>
   <p>
-    I transform complex requirements into high-performance software. <br />
-    Specialized in scalable web architectures, .NET ecosystems, and modern JavaScript.
+    <strong>Transforming complex requirements into high-performance digital ecosystems.</strong> <br />
+    Specialized in scalable architectures, distributed systems, and cloud-native solutions.
   </p>
 
   <p>
@@ -22,68 +22,68 @@
 
 <hr />
 
-### Technical Arsenal
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
-| Frontend & Mobile | Backend & Architecture | DevOps & Cloud |
+| Frontend & Mobile | Backend & Runtime | Infrastructure & Tools |
 | :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
-| ![Next](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![RN](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | | |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
+| ![Next](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![RN](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 </div>
 
 <br />
 
-### Selected Work
+### 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <img src="https://placehold.co/600x3/A855F7/A855F7.png" width="100%" alt="" />
+      <img src="https://placehold.co/600x3/38BDAE/38BDAE.png" width="100%" alt="" />
       <br />
-      <a href="https://juansesdev.github.io/AerionOs/" target="_blank"><h3>AerionOS</h3></a>
-      <p>Operating system simulation engine built with pure Vanilla JavaScript. Features a window management system, file system simulation, and optimized DOM manipulation.</p>
+      <a href="https://senddock.dev" target="_blank"><h3>SendDock</h3></a>
+      <p>Open-source email marketing platform. Self-hostable, API-first, and designed for high throughput. Features a robust rate-limiting system and multi-provider support.</p>
       <p>
-        <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/DOM_API-grey?style=flat-square" />
-        <img src="https://img.shields.io/badge/Simulation-38BDAE?style=flat-square" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       </p>
     </td>
     <td width="50%">
-      <img src="https://placehold.co/600x3/3B82F6/3B82F6.png" width="100%" alt="" />
+      <img src="https://placehold.co/600x3/A855F7/A855F7.png" width="100%" alt="" />
       <br />
-      <a href="https://github.com/JuansesDev" target="_blank"><h3>MTC - Modular Template CLI</h3></a>
-      <p>A powerful, architecture-aware CLI tool for scaffolding .NET projects. Supports Clean Architecture, MVC Monolith, and Vertical Slice patterns.</p>
+      <a href="https://ubiggo.arkhe.systems" target="_blank"><h3>Ubiggo</h3></a>
+      <p>Enterprise-grade logistics and tracking platform under Arkhe Systems. Optimized for real-time data processing and scalable fleet management.</p>
       <p>
-        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/CLI_Tool-grey?style=flat-square" />
+        <img src="https://img.shields.io/badge/Architecture-Clean-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Enterprise-Ready-success?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://placehold.co/600x3/F97316/F97316.png" width="100%" alt="" />
+      <img src="https://placehold.co/600x3/3B82F6/3B82F6.png" width="100%" alt="" />
       <br />
-      <a href="https://github.com/JuansesDev" target="_blank"><h3>WaitlistMailer</h3></a>
-      <p>Backend library published on NPM for efficient waitlist management. Handles email queuing, template rendering, and SMTP integrations seamlessly.</p>
+      <a href="https://github.com/JuansesDev" target="_blank"><h3>MTC - Modular Template CLI</h3></a>
+      <p>Architecture-aware CLI for .NET. Automates the scaffolding of Clean Architecture and Vertical Slice patterns, ensuring consistency across enterprise projects.</p>
       <p>
-        <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tooling-38BDAE?style=flat-square" />
       </p>
     </td>
     <td width="50%">
-      <img src="https://placehold.co/600x3/EC4899/EC4899.png" width="100%" alt="" />
+      <img src="https://placehold.co/600x3/F7DF1E/F7DF1E.png" width="100%" alt="" />
       <br />
-      <a href="https://pixeldreamsgallery.me/" target="_blank"><h3>PixelDreams Gallery</h3></a>
-      <p>High-performance gallery platform built with Next.js. Leverages next/image for optimization and a responsive masonry layout for visual impact.</p>
+      <a href="https://juansesdev.github.io/AerionOs/" target="_blank"><h3>AerionOS</h3></a>
+      <p>Low-level OS simulation engine. Demonstrates advanced DOM manipulation, virtual file systems, and memory management concepts in the browser.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Performance-Critical-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Architecture-Modular-grey?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -91,6 +91,18 @@
 
 <br />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JuansesDev&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDAE&currStreakLabel=38BDAE" height="150" alt="GitHub Streak" />
-</div>
+### 📊 Git Analytics
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="200" alt="Stats" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="200" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="200" alt="Most Commit Languages" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="200" alt="Repos per Language" />
+</p>
