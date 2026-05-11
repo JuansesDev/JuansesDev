@@ -1,22 +1,78 @@
-name: GitHub-Profile-Summary-Cards
+name: Metrics
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches: ["main"]
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
-    name: generate-summary-cards
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-
-          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+      - name: Main metrics
+        uses: lowlighter/metrics@latest
         with:
-          USERNAME: ${{ github.repository_owner }}
-          UTC_OFFSET: -5
+          filename: metrics.svg
+          token: ${{ secrets.PROFILE_TOKEN }}
+          user: JuansesDev
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Bogota
+          repositories_affiliations: owner, collaborator, organization_member
+
+      - name: Languages (indepth)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-languages.svg
+          token: ${{ secrets.PROFILE_TOKEN }}
+          user: JuansesDev
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_limit: 10
+          plugin_languages_sections: most-used
+          plugin_languages_categories: programming, markup
+          plugin_languages_ignored: html, css, scss, dockerfile, makefile, shell
+          commits_authoring: >-
+            JuansesDev,
+            JuansesDev@users.noreply.github.com,
+            juanse032020@gmail.com,
+            juansesdev@gmail.com,
+            contact@juanses.dev
+          repositories_affiliations: owner, collaborator, organization_member
+
+      - name: Habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-habits.svg
+          token: ${{ secrets.PROFILE_TOKEN }}
+          user: JuansesDev
+          template: classic
+          base: ""
+          config_timezone: America/Bogota
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+          plugin_habits_from: 200
+
+      - name: Isocalendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-isocalendar.svg
+          token: ${{ secrets.PROFILE_TOKEN }}
+          user: JuansesDev
+          template: classic
+          base: ""
+          config_timezone: America/Bogota
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
