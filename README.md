@@ -99,7 +99,7 @@
 
 <p align="center">
   <img src="./metrics-languages.svg" height="240" alt="Languages (indepth)" />
-  <img src="./metrics-habits.svg" height="240" alt="Coding habits" />
+  <img src="./metrics-followup.svg" height="240" alt="Issues & PRs followup" />
 </p>
 
 <p align="center">
