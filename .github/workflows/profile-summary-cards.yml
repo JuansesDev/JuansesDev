@@ -2,7 +2,6 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    # Corre cada día a las 00:00 UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -16,8 +15,8 @@ jobs:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          # Tema oscuro consistente con tokyonight
           UTC_OFFSET: -5
