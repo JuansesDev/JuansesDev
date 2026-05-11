@@ -94,15 +94,14 @@
 ### 📊 Git Analytics
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <img src="./metrics.svg" alt="Metrics" />
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="200" alt="Stats" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="200" alt="Productive Time" />
+  <img src="./metrics-languages.svg" height="240" alt="Languages (indepth)" />
+  <img src="./metrics-habits.svg" height="240" alt="Coding habits" />
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="200" alt="Most Commit Languages" />
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="200" alt="Repos per Language" />
+  <img src="./metrics-isocalendar.svg" alt="Contributions calendar" />
 </p>
