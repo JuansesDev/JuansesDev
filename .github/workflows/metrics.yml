@@ -60,10 +60,14 @@ jobs:
           base: ""
           config_timezone: America/Bogota
           plugin_habits: yes
+          plugin_habits_from: 100
+          plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
           plugin_habits_trim: yes
-          plugin_habits_from: 200
+          retries: 3
+          retries_delay: 30
 
       - name: Isocalendar
         uses: lowlighter/metrics@latest
