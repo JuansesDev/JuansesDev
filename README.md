@@ -99,7 +99,6 @@
 
 <p align="center">
   <img src="./metrics-languages.svg" height="240" alt="Languages (indepth)" />
-  <img src="./metrics-followup.svg" height="240" alt="Issues & PRs followup" />
 </p>
 
 <p align="center">
