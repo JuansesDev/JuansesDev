@@ -66,6 +66,7 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
           plugin_habits_trim: yes
+          repositories_affiliations: owner, collaborator, organization_member
           retries: 3
           retries_delay: 30
 
@@ -80,3 +81,4 @@ jobs:
           config_timezone: America/Bogota
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          repositories_affiliations: owner, collaborator, organization_member
