@@ -15,7 +15,7 @@ I have a strong bias for **Go**, **modular monoliths**, clean domain boundaries,
 
 ### What I'm building right now
 
-**[SendDock](https://github.com/Arkhe-Systems/senddock)** · [senddock.dev](https://senddock.dev)  
+**[SendDock](https://github.com/SendDock/senddock)** · [senddock.dev](https://senddock.dev)  
 My main focus right now. SendDock is an open-core, self-hostable, API-first email platform (a developer-friendly alternative to Mailchimp and Resend with a BYO-SMTP model, also available as an official **Dokploy** template). I designed and built it end-to-end as a modular monolith in **Go**, **Vue 3**, **PostgreSQL**, and **Redis** — featuring multi-workspace isolation, encrypted SMTP credentials, Redis-backed broadcast queues and rate limiting, HMAC-signed open/click tracking, RFC 8058 one-click unsubscribe, IMAP/webhook bounce handling, and a visual template editor.
 
 **Lab & experiments:**
